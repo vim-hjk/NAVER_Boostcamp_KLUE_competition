@@ -11,7 +11,7 @@
 
 <br></br>
 ## 🎖 최종 결과 <a name = 'Result'></a>
-- Final LB (39등)
+- Final LB (39/135)
     - Acc : `80.1000` 
     - Entries : 47 
 
